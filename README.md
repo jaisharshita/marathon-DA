@@ -1,7 +1,10 @@
 # Ultra Marathon Race Data Analytics Dashboard
 
 ### Project Overview
-This data analytics project performs a full Exploratory Data Analysis (EDA) on a comprehensive global ultra marathon dataset spanning two centuries. <br> It implements an interactive analytical framework to extract deep insights into runner demographics, race performance, environmental factors, and event competitiveness. <br>The repository contains a complete pipeline moving from raw data ingestion to an interactive web application.<br> (the dataset is taken from kaggle)
+This data analytics project performs a full Exploratory Data Analysis (EDA) on a comprehensive global ultra marathon dataset spanning two centuries. <br> 
+It implements an interactive analytical framework to extract deep insights into runner demographics, race performance, environmental factors, and event competitiveness.<br>
+The repository contains a complete pipeline moving from raw data ingestion to an interactive web application.<br> (the dataset is taken from kaggle)
+### To see the dashboard, kindly refer to the video attached in files section or run the file mar.py in anaconda powershell prompt.
 
 ### Tech Stack
 * **Language:** Python<br>
